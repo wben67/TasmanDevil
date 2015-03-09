@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Mur()
+comment0.text=\r\n\ Constructeur\ d'objets\ de\ classe\ Mur\r\n
+comment1.params=etat_initial
+comment1.target=Mur(Mur.ETAT)
+comment2.params=
+comment2.target=Mur.ETAT\ setVisible()
+comment2.text=\r\n\ Un\ exemple\ de\ m\u00E9thode\ -\ remplacez\ ce\ commentaire\ par\ le\ v\u00F4tre\r\n\r\n\ @param\ \ y\ \ \ le\ param\u00E8tre\ de\ la\ m\u00E9thode\r\n\ @return\ \ \ \ \ la\ somme\ de\ x\ et\ de\ y\r\n
+comment3.params=
+comment3.target=Mur.ETAT\ setInvisible()
+numComments=4

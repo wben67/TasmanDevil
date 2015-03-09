@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=x\ y\ Top\ Bottom\ Left\ Right
+comment0.target=CelluleJeu(int,\ int,\ Mur,\ Mur,\ Mur,\ Mur)
+comment0.text=\r\n\ Constructeur\ d'objets\ de\ classe\ CelluleJeu\r\n
+comment1.params=x\ y
+comment1.target=CelluleJeu(int,\ int)
+comment2.params=
+comment2.target=CelluleJeu()
+comment3.params=y
+comment3.target=int\ sampleMethod(int)
+comment3.text=\r\n\ Un\ exemple\ de\ m\u00E9thode\ -\ remplacez\ ce\ commentaire\ par\ le\ v\u00F4tre\r\n\r\n\ @param\ \ y\ \ \ le\ param\u00E8tre\ de\ la\ m\u00E9thode\r\n\ @return\ \ \ \ \ la\ somme\ de\ x\ et\ de\ y\r\n
+numComments=4
